@@ -1,0 +1,143 @@
+[[Usrsctp]]
+arch = "aarch64"
+git-tree-sha1 = "ccc9b456f557ce63a50eb5a7c0020703e88fe420"
+os = "macos"
+
+    [[Usrsctp.download]]
+    sha256 = "d673f51e9df3037d3dcc373e1c05c412be483e78345012f9feab14552779f822"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.aarch64-apple-darwin.tar.gz"
+[[Usrsctp]]
+arch = "aarch64"
+git-tree-sha1 = "65c6aeae62c6f54d95133060dc5bd072ca5623ec"
+libc = "glibc"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "7a6c2021af805d3735044679ff6d873e92d568e83a4f18660919fd5102d05373"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.aarch64-linux-gnu.tar.gz"
+[[Usrsctp]]
+arch = "aarch64"
+git-tree-sha1 = "4cef9f8686777f18d1110933f6df9e15d68f7500"
+libc = "musl"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "151ce83ee3ac965be64514b0283d3f4420d80c6461ad12ca8a0a8c2c620ad39f"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.aarch64-linux-musl.tar.gz"
+[[Usrsctp]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ecb02fa8e8bc666e6e10980de8c110ab408c16b4"
+libc = "glibc"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "55ab1a7d7583d18b2db75dcfdbc82352ff1f662bbd6971d285b5bdb59abc6609"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.armv6l-linux-gnueabihf.tar.gz"
+[[Usrsctp]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "27d2fe0c43c8659d6adc8d54370b53ea7e003d69"
+libc = "musl"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "a297a286d9d81d02e8566196bb72f52feb77fa59e6f6794823ce91f151d031b9"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.armv6l-linux-musleabihf.tar.gz"
+[[Usrsctp]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "df74e3e644cc7c9d0694bc42f19069050a9e5c84"
+libc = "glibc"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "610fee8c0415d40765ebbbd5cb1bb8c6a5f9757dabcdaa01401da9fc9186e49b"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.armv7l-linux-gnueabihf.tar.gz"
+[[Usrsctp]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ba3e05e6230995cc2bd56d6a2218fe291ed9c9aa"
+libc = "musl"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "149609cd2b2d58ec3b007dc769e9aff9dc2a442cc82c6dfa8005769e3e883f13"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.armv7l-linux-musleabihf.tar.gz"
+[[Usrsctp]]
+arch = "i686"
+git-tree-sha1 = "0024e5a052dabf3d33413734c65cd62d1645d145"
+libc = "glibc"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "6675f4e2a2e2178bb051e286fbab6c73972c90081451f7844393500d6b651272"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.i686-linux-gnu.tar.gz"
+[[Usrsctp]]
+arch = "i686"
+git-tree-sha1 = "48658aeb8546b546f82b81e8db74c57e71ff81a6"
+libc = "musl"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "5363c925d9b9df249d957b2a9e758f830178a3eed7407968f53d3fb998bc3922"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.i686-linux-musl.tar.gz"
+[[Usrsctp]]
+arch = "i686"
+git-tree-sha1 = "bcf1c40fddaf8cbea5cc5e47c14afcc32f3b95b5"
+os = "windows"
+
+    [[Usrsctp.download]]
+    sha256 = "6867a24c69c320f24c19bfd157e42487e95345d05e30edd01d03a0b42618c183"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.i686-w64-mingw32.tar.gz"
+[[Usrsctp]]
+arch = "powerpc64le"
+git-tree-sha1 = "f49f9852c53830f27a21340586404014b755a95f"
+libc = "glibc"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "03c1311e560adf30e8e86c15b47686a123805c1930c8fe6a5fa00d9775bed242"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.powerpc64le-linux-gnu.tar.gz"
+[[Usrsctp]]
+arch = "x86_64"
+git-tree-sha1 = "792e55b8bea2fba002104e9f0b3ab2e97eb1bb7b"
+os = "macos"
+
+    [[Usrsctp.download]]
+    sha256 = "4190974a54ae7e5270bc9522f2aa89410670ce7ca0e092f21ac1f9fcff92d450"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.x86_64-apple-darwin.tar.gz"
+[[Usrsctp]]
+arch = "x86_64"
+git-tree-sha1 = "078c6829e0411ea2bafda7e1edba13528ff4609b"
+libc = "glibc"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "c2b28e269dd928eb891d42654d6df062a46afd148a0c436e1548bc54b02d41c3"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.x86_64-linux-gnu.tar.gz"
+[[Usrsctp]]
+arch = "x86_64"
+git-tree-sha1 = "1eb7c22e110e19ddd91a1076f8404ce8d3ecd40e"
+libc = "musl"
+os = "linux"
+
+    [[Usrsctp.download]]
+    sha256 = "6b164cced95553ba4668d87ab0a5e5725182845cd6fbaa69e59c288f8c914747"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.x86_64-linux-musl.tar.gz"
+[[Usrsctp]]
+arch = "x86_64"
+git-tree-sha1 = "66023876d2facef64082008660831633fa3096b3"
+os = "freebsd"
+
+    [[Usrsctp.download]]
+    sha256 = "6579e2ad53d8ca0720bce198e68607a561846eebc5117c1d130bea0ca6bbc1a9"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.x86_64-unknown-freebsd.tar.gz"
+[[Usrsctp]]
+arch = "x86_64"
+git-tree-sha1 = "90f52e6d29cfb71261a9cd4b82e5058d1431377b"
+os = "windows"
+
+    [[Usrsctp.download]]
+    sha256 = "b41871ef48c111d9524c060b5e30823788da6a9f9f9d5d95935a0a9af66e44d0"
+    url = "https://github.com/JuliaBinaryWrappers/Usrsctp_jll.jl/releases/download/Usrsctp-v0.9.5+0/Usrsctp.v0.9.5.x86_64-w64-mingw32.tar.gz"
